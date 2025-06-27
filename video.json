@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Big Buck Bunny",
+    "thumbnail": "https://example.com/thumb1.jpg",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "duration": "10:34"
+  },
+  {
+    "id": "2",
+    "title": "Sintel",
+    "thumbnail": "https://example.com/thumb2.jpg",
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "duration": "14:45"
+  }
+]
